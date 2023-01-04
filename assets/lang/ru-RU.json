@@ -1,0 +1,22 @@
+{
+    "app": {
+        "appName": "PerformX",
+        "first_name": "Имя",
+        "first_name_upper":"ИМЯ",
+        "last_name": "Фамилия",
+        "last_name_upper":"Электронная почта",
+        "email": "Эл. адрес",
+        "email_upper":"ЭЛЕКТРОННАЯ ПОЧТА",
+        "gsm": "RCM",
+        "country": "Страна",
+        "change_password": "Изменить пароль",
+        "language": "Язык",
+        "delete_account": "Удалить аккаунт", 
+        "save_changes":"СОХРАНИТЬ ИЗМЕНЕНИЯ",
+        "current_password": "текущий пароль",
+        "new_password": "Новый пароль",
+        "new_password_confirm": "Новый пароль (подтвердить)",
+        "profile_details": "Детали профиля",
+        "password": "Пароль"
+    }
+}

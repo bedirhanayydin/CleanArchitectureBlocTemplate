@@ -1,0 +1,22 @@
+{
+    "app": {
+        "appName": "PerformX",
+        "first_name": "First Name",
+        "first_name_upper":"FIRST NAME",
+        "last_name": "Last Name",
+        "last_name_upper":"LAST NAME",
+        "email": "Email",
+        "email_upper":"EMAIL",
+        "gsm": "Gsm",
+        "country": "Country",
+        "change_password": "Change Password",
+        "language": "Language",
+        "delete_account": "Delete Account", 
+        "save_changes":"SAVE CHANGES",
+        "current_password": "Current Password",
+        "new_password": "New Password",
+        "new_password_confirm": "New Password (Confirm)",
+        "profile_details": "Profile Details",
+        "password": "Password"
+    }
+}
